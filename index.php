@@ -10,6 +10,7 @@
 <body>
     <h1><center>Hello Trip Segura</center></h1> 
     
+    
     <script src="main.js"></script>
     <script src="assets/js/bootstrap.js"></script>
     <script src="assets/js/jquery-3.3.1.min.js"></script>
